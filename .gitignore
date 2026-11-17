@@ -1,0 +1,7 @@
+# Packaging workspace.
+/pkg
+/src
+
+# Sources and build output.
+*.tar.gz
+*.tar.zst
